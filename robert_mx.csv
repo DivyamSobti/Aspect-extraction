@@ -1,0 +1,1182 @@
+roberta_neg,roberta_neu,roberta_pos,Reviews,Aspect
+0.05337435,0.51092356,0.4357021,settings perfect hair types,Adaptability
+0.2292323,0.66106504,0.109702654,lots settings,Adaptability
+0.6840739,0.2903656,0.025560452,heating element died,Durability
+0.04506965,0.76474005,0.19019036,also diffuser stay,Ease of Use
+0.0850474,0.7608213,0.15413134,wo stay flys see one work,Ease of Use
+0.020687342,0.57369536,0.40561727,complaint concentrator fit perfectly pop middle everything,Ease of Use
+0.09619705,0.85583407,0.0479689,burns clients medium setting,Ergonomics
+0.04506965,0.76474005,0.19019036,also diffuser stay,Interference
+0.0850474,0.7608213,0.15413134,wo stay flys see one work,Interference
+0.23997469,0.5949915,0.16503379,get hot sweaty either,Interference
+0.020687342,0.57369536,0.40561727,complaint concentrator fit perfectly pop middle everything,Interference
+0.05629706,0.3164421,0.6272608,oh hair frizzy either best beauty purchase ever made,Interference
+0.0836817,0.7388114,0.17750695,quiet make feel like standing next jet engine,Interference
+0.20446649,0.682265,0.113268495,without frizz,Interference
+0.0850474,0.7608213,0.15413134,wo stay flys see one work,Performance
+0.006247567,0.08693596,0.9068164,best dryer ever bought,Performance
+0.082456194,0.7293326,0.18821122,get hot enough low setting,Performance
+0.020687342,0.57369536,0.40561727,complaint concentrator fit perfectly pop middle everything,Performance
+0.01077847,0.18194987,0.8072717,dryer excellent,Performance
+0.009825346,0.1479441,0.84223056,great hair,Performance
+0.034918454,0.72328156,0.2418,way effective ones used,Performance
+0.11269983,0.81731,0.069990195,dries hair quickly,Use Efficiency
+0.06984909,0.88235694,0.04779404,dries medium length hair quickly,Use Efficiency
+0.14334856,0.7705062,0.08614525,dries fast without lot heat,Use Efficiency
+0.1378356,0.7790963,0.08306809,dries hair half time,Use Efficiency
+0.11096171,0.7646659,0.124372475,drys hair fast,Use Efficiency
+0.81469584,0.16240129,0.022902856,attractive,Aesthetics
+0.81469584,0.16240129,0.022902856,attractive,Aesthetics
+0.0055314517,0.22201048,0.7724581,stay together well,Durability
+0.005026176,0.16673441,0.82823944,cleans highly recommended,Ease of Reprocessing
+0.75304383,0.22994241,0.017013747,writing left days gets stuck,Ease of Reprocessing
+0.67570055,0.29220432,0.032095127,increasingly difficult wipe,Ease of Reprocessing
+0.111182526,0.67154133,0.21727614,would come,Ease of Reprocessing
+0.066264294,0.4627006,0.47103506,board wipes pretty easily,Ease of Reprocessing
+0.006567345,0.07569212,0.9177405,great desk work,Ease of Storage
+0.14655618,0.69802165,0.15542214,small,Ease of Storage
+0.08954685,0.62348557,0.2869676,convenient,Ease of Use
+0.008004382,0.53855395,0.45344168,dry erase marker easily fits top section keep way desk,Ease of Use
+0.21544905,0.6563735,0.12817742,conveneint,Ease of Use
+0.7449673,0.23155063,0.023482077,handy little tool,Ease of Use
+0.11615839,0.665744,0.21809767,pretty wobbly,Interference
+0.25908497,0.46185696,0.27905813,functional,Performance
+0.0371078,0.53729355,0.42559865,fully functional,Performance
+0.004331915,0.09938305,0.89628506,great daily list,Performance
+0.06286106,0.3917286,0.54541034,board good quality,Performance
+0.008317997,0.1981783,0.7935037,however work good hot beverages,Adaptability
+0.012176875,0.21485169,0.77297145,sometimes like drink hot tea great replacement use hot without worrying melted plastic fits well hole bit smaller length still comfortable drink,Adaptability
+0.14975664,0.6704675,0.17977582,come different sizes,Adaptability
+0.81469584,0.16240129,0.022902856,attractive,Aesthetics
+0.008866592,0.07014144,0.920992,beautiful,Aesthetics
+0.008866592,0.07014144,0.920992,beautiful,Aesthetics
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.063523605,0.84719586,0.08928061,bamboo natural texture like cold metal,Ergonomics
+0.22744177,0.7191428,0.05341548,taste wood,Interference
+0.1860423,0.7259813,0.08797633,threw bamboo taste strong go away cycles dishwasher,Interference
+0.003917473,0.054017678,0.9420649,straws awesome,Performance
+0.0069422494,0.072823934,0.92023385,work great,Performance
+0.004138849,0.0967918,0.8990693,work great cold beverages,Performance
+0.14680195,0.70045966,0.15273838,reasonable price,Price
+0.08354636,0.57767403,0.33877957,worth buy,Price
+0.36454785,0.54163593,0.093816176,perfect small trash cans even storing items want use plastic,Adaptability
+0.009742852,0.330193,0.66006416,fit perfectly full circle fresh air kitchen compost collector,Adaptability
+0.90561503,0.08426316,0.010121815,big sink trash collector,Adaptability
+0.7205214,0.26703987,0.012438704,every time remove bag compost bin broken leaking fluids,Durability
+0.46236807,0.43567547,0.101956435,fragile,Durability
+0.2625588,0.5855172,0.151924,tear,Durability
+0.23444597,0.580355,0.18519896,rip,Durability
+0.06484509,0.47159773,0.46355718,strong,Durability
+0.0051528313,0.13563102,0.85921615,bags hold really well,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.4780127,0.47973502,0.042252306,bags rip break easily,Durability
+0.009650054,0.5188752,0.4714748,sturdy enough hold together fairly full,Durability
+0.24252513,0.61674106,0.14073384,still work,Performance
+0.008686659,0.13860492,0.85270846,great composter bags,Performance
+0.058178496,0.3083001,0.63352144,great,Performance
+0.044645168,0.52903175,0.42632306,work ok,Performance
+0.2032735,0.49244907,0.30427745,actually job,Performance
+0.046412524,0.2782583,0.67532915,price good,Price
+0.049087554,0.82739466,0.12351775,used start variety herbs seed,Adaptability
+0.029501555,0.4159025,0.55459595,perfect size fit windowsills,Adaptability
+0.5627102,0.41367656,0.023613209,get wet fall apart,Durability
+0.3686397,0.4888868,0.14247344,flimsy,Durability
+0.56766367,0.40246212,0.029874299,way flimsy break easily,Durability
+0.009687511,0.37391922,0.61639327,instructions clear easy use,Ease of Use
+0.0060600233,0.36651364,0.6274263,transplanting imto larger planter easy,Ease of Use
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.15265915,0.5035454,0.34379545,easy,Ease of Use
+0.016740069,0.3806775,0.60258245,simple easy use,Ease of Use
+0.011239882,0.1015363,0.88722384,good product,Performance
+0.0032843703,0.20661446,0.7901011,great starting seeds transplanting sprouts later,Performance
+0.53456724,0.44186792,0.023564808,herbs thriving pots slowly disintegrate potting soil planter,Performance
+0.009299237,0.17193496,0.8187658,perfect product growing anything seed,Performance
+0.15491,0.67244375,0.17264625,worked like said,Performance
+0.05124503,0.46388435,0.4848706,works ok,Performance
+0.043622017,0.7586334,0.19774458,although price comparatively low,Price
+0.03998683,0.2915108,0.66850233,good price,Price
+0.04368938,0.27100584,0.68530476,great price,Price
+0.12719166,0.7767937,0.09601462,seeds popped less week,Use Efficiency
+0.014784829,0.6948307,0.29038447,seeds germinated quickly grew,Use Efficiency
+0.0436839,0.87903017,0.07728589,sprouted within week two,Use Efficiency
+0.20369507,0.7562582,0.04004665,like way slight conform washing,Adaptability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.6879695,0.28902817,0.02300235,problems disintegration,Durability
+0.72470397,0.26255447,0.012741537,scrubber part fall apart rather quickly,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.14045753,0.6301584,0.22938405,last long,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.41074795,0.53907484,0.05017724,like throw washing machine,Ease of Reprocessing
+0.046258595,0.6948814,0.25885996,easily microwave,Ease of Reprocessing
+0.01469988,0.5993431,0.38595706,easily washes top rack dishwasher,Ease of Reprocessing
+0.11453706,0.54919034,0.33627257,rinse super easily,Ease of Reprocessing
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.8685836,0.11850814,0.012908268,never get stinky smell anymore,Interference
+0.8286903,0.15969348,0.011616242,problems disintegration smell,Interference
+0.8526947,0.13918398,0.008121359,smell toxic package,Interference
+0.432008,0.5145256,0.05346644,smell time like sponges,Interference
+0.011069426,0.1407996,0.84813094,best kitchen sponges ever,Performance
+0.25040856,0.45703864,0.29255283,effective,Performance
+0.071790636,0.6218976,0.30631182,perform well sponges used years,Performance
+0.16930771,0.4961221,0.33457014,great sponges,Performance
+0.11088588,0.5816045,0.3075097,dream work,Performance
+0.046703234,0.3731091,0.5801877,wonderful sponges,Performance
+0.73096067,0.24164878,0.027390499,oh expensive,Price
+0.74107933,0.2264568,0.032463882,toxic,Safety
+0.016535368,0.58315575,0.40030888,work well faces hands well things like heating tortillas laying bread rises etc,Adaptability
+0.08032928,0.77397907,0.14569163,stars precisely square,Aesthetics
+0.036817636,0.5594941,0.40368825,colorful,Aesthetics
+0.0072609005,0.09631621,0.8964229,colors nice,Aesthetics
+0.0032468573,0.14398852,0.8527646,fun group colors,Aesthetics
+0.17171416,0.6237893,0.20449646,like style,Aesthetics
+0.032973073,0.9031048,0.06392215,tried folding one would dinner party hold shape,Aesthetics
+0.03546006,0.53955704,0.42498288,kids like colors,Aesthetics
+0.008657826,0.080167964,0.91117424,love colors,Aesthetics
+0.0032498308,0.0264345,0.9703157,lovely colors,Aesthetics
+0.0055399565,0.14176273,0.8526974,plenty colors choose given time nice,Aesthetics
+0.008152483,0.5421046,0.4497429,colors bright photo indicates,Aesthetics
+0.0027302762,0.047990512,0.94927925,colors nice bright,Aesthetics
+0.006600899,0.22277384,0.7706253,colors vivid cheery,Aesthetics
+0.002554888,0.02949068,0.96795446,colors wonderful,Aesthetics
+0.8863809,0.09872249,0.014896578,sizing terrible,Aesthetics
+0.023154318,0.26305655,0.7137891,texture pleasing,Aesthetics
+0.009841801,0.31291035,0.6772478,twelve different colors fun,Aesthetics
+0.008866592,0.07014144,0.920992,beautiful,Aesthetics
+0.002413084,0.10347997,0.8941069,really brighten kitchen,Aesthetics
+0.008866592,0.07014144,0.920992,beautiful,Aesthetics
+0.003249319,0.031488404,0.9652623,look nice,Aesthetics
+0.015513831,0.1481618,0.8363244,nice big,Aesthetics
+0.011188154,0.24514098,0.7436709,pretty colors,Aesthetics
+0.017068036,0.31241956,0.67051244,would benefit ironing look fine without,Aesthetics
+0.008064866,0.24318151,0.7487536,colors held well,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.21115676,0.74614996,0.042693287,faded several months use,Durability
+0.02777752,0.7118505,0.26037195,holds well wash leak color,Durability
+0.12221803,0.7219729,0.1558091,wash napkins napkins never bled,Durability
+0.17600006,0.75720114,0.066798866,noticeable fading washing,Durability
+0.0033579702,0.06530172,0.9313403,stands great everyday use,Durability
+0.23668171,0.6917499,0.07156843,however fade one wash look like years,Durability
+0.38945475,0.57387066,0.036674578,feel heavy duty stiff,Durability
+0.21177368,0.6777126,0.11051367,dulled color washings,Durability
+0.027195144,0.6391006,0.33370426,hold color well,Durability
+0.38335598,0.55179524,0.064848766,thin flimsy,Durability
+0.012659594,0.31498563,0.6723548,washed dried normally cold water turned fine,Durability
+0.09716461,0.8348239,0.06801143,fall wrinkle wash dried iron,Ease of Reprocessing
+0.033165798,0.49770957,0.46912473,easy take care,Ease of Reprocessing
+0.12431218,0.59772104,0.27796677,easy wash,Ease of Reprocessing
+0.04414687,0.82461095,0.13124211,easy wash needs brief hot iron smooth,Ease of Reprocessing
+0.046816822,0.751995,0.20118815,iron smooth hands fold,Ease of Reprocessing
+0.39721853,0.56853414,0.034247387,hard get grease oil stains napkins,Ease of Reprocessing
+0.12102851,0.6002008,0.27877077,wish would iron little easier,Ease of Reprocessing
+0.2699757,0.6653313,0.06469301,real need pressing drying,Ease of Reprocessing
+0.28204152,0.6419108,0.07604771,staining either,Ease of Reprocessing
+0.233876,0.71141547,0.054708567,wrinkled hard fold,Ease of Reprocessing
+0.17090096,0.7483582,0.08074094,come dryer wrinkled fold day wrinkles fall,Ease of Reprocessing
+0.02206139,0.18846527,0.7894734,wash nice,Ease of Reprocessing
+0.10310914,0.64028275,0.25660813,wash well,Ease of Reprocessing
+0.10310914,0.64028275,0.25660813,wash well,Ease of Reprocessing
+0.23497903,0.68381125,0.08120974,fabric soft scratchy,Ergonomics
+0.30585763,0.56892,0.12522228,soft,Ergonomics
+0.30585763,0.56892,0.12522228,soft,Ergonomics
+0.03345451,0.28274223,0.6838032,nice soft,Ergonomics
+0.026970407,0.69804305,0.27498657,also big enough use two meals wash,Ease of Reprocessing
+0.29214004,0.58738494,0.120475,using time,Ease of Use
+0.10027081,0.59930605,0.30042315,absorbent,Performance
+0.10027081,0.59930605,0.30042315,absorbent,Performance
+0.07019486,0.7495404,0.18026471,far napkins go work,Performance
+0.04673084,0.32622275,0.6270464,good quality,Performance
+0.0104334,0.21275263,0.77681404,great everyday use,Performance
+0.048123293,0.63646513,0.31541157,exactly wanted everyday napkins,Performance
+0.004599951,0.11771031,0.8776897,great general dinner napkins,Performance
+0.2779534,0.57062083,0.15142576,meet needs,Performance
+0.0055988804,0.17884885,0.8155523,fabric works well napkin,Performance
+0.014369944,0.20747577,0.77815425,napkins great,Performance
+0.04316519,0.76866436,0.18817048,considering inexpensive,Price
+0.015131824,0.38463855,0.6002296,paid use happily,Price
+0.046412524,0.2782583,0.67532915,price good,Price
+0.11408844,0.7493746,0.13653699,inexpensive,Price
+0.0033351423,0.06766443,0.92900044,also napkins great size,Aesthetics
+0.10321708,0.8232198,0.07356312,stated fabric true weight,Aesthetics
+0.019515827,0.29845285,0.6820313,nice weight,Aesthetics
+0.10190678,0.82776594,0.07032726,fabric little thinner expecting,Aesthetics
+0.03271782,0.20564628,0.7616359,fabric perfect,Aesthetics
+0.014047635,0.22500457,0.7609478,quality workmanship good,Aesthetics
+0.18470302,0.63066137,0.1846356,large,Aesthetics
+0.031109953,0.5825848,0.38630527,perfect packing school lunches,Adaptability
+0.16476306,0.5765857,0.25865126,look,Aesthetics
+0.056287657,0.54531866,0.3983937,eye appealing,Aesthetics
+0.025587466,0.75581855,0.21859397,comfort playability durability evident upon first use,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.2881715,0.658834,0.05299451,sturdy regular plastic utensils,Durability
+0.31010222,0.5747051,0.115192674,better plastic silverware sturdier,Durability
+0.040079825,0.80382305,0.15609713,true test seeing durable utensils,Durability
+0.1075417,0.54917985,0.3432784,product sturdy,Durability
+0.04378773,0.44661576,0.50959647,super durable,Durability
+0.37873793,0.5643519,0.056910206,thin near tips good spearing things bent tip could easily break problem,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.49110132,0.45539677,0.05350198,wash easily,Ease of Reprocessing
+0.025587466,0.75581855,0.21859397,comfort playability durability evident upon first use,Ease of Use
+0.017299198,0.44869936,0.53400147,also comfortable,Ergonomics
+0.025587466,0.75581855,0.21859397,comfort playability durability evident upon first use,Ergonomics
+0.011311749,0.15089713,0.8377911,nice feel,Ergonomics
+0.0728639,0.33713064,0.59000546,felt much better using plastic ones,Aesthetics
+0.0064678,0.1181909,0.87534124,box last quite awhile great,Aesthetics
+0.0041915174,0.109259665,0.8865488,packaging great folks easily grab whichever utensil want,Aesthetics
+0.7268932,0.2562312,0.016875613,dissappointed quality forks,Performance
+0.010888901,0.08666322,0.90244794,great product,Performance
+0.026810069,0.43352363,0.53966624,job well,Performance
+0.017276892,0.51986516,0.46285796,surprisingly effective cutting turkey ham,Performance
+0.04819916,0.53763336,0.41416752,huge investment,Price
+0.028193263,0.86355716,0.108249575,additional organization provided pockets sides protects glass items,Adaptability
+0.0047760657,0.102477655,0.89274627,interior sleeves work great keep bottles place full bag,Adaptability
+0.025717977,0.50605154,0.46823046,really like bottle pockets,Adaptability
+0.011481854,0.56535935,0.42315876,bottle sleeves useful keep bottles long heavy items upright,Adaptability
+0.044787653,0.8728219,0.08239038,inside pockets keep bottles juice milk wine upright groceries center bag,Adaptability
+0.1793023,0.67497844,0.1457193,versatile,Adaptability
+0.039722715,0.4331733,0.52710396,pleasant color,Aesthetics
+0.011984578,0.10046776,0.8875477,loved bags washed three shrink,Durability
+0.06484509,0.47159773,0.46355718,strong,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.007899774,0.280417,0.7116832,sturdy well made bags,Durability
+0.049151108,0.5905381,0.36031076,strong bags,Durability
+0.06411565,0.54531175,0.39057258,bags sturdy,Durability
+0.0064293277,0.12030427,0.87326646,still great shape,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.23640323,0.7135824,0.050014347,removed washing machine shrunk,Durability
+0.11835089,0.6102669,0.27138215,easy sew,Ease of Reprocessing
+0.043458838,0.5821906,0.37435067,machine washable important,Ease of Reprocessing
+0.008952327,0.26522863,0.72581905,plus easy wash,Ease of Reprocessing
+0.06720547,0.8417822,0.091012366,fold two bags store third keeping bags car,Ease of Storage
+0.096172534,0.7887639,0.11506353,fold flat fit trunk worries,Ease of Storage
+0.038622223,0.38678274,0.57459503,storing easy enough,Ease of Storage
+0.14634834,0.6265107,0.22714096,easy load,Ease of Use
+0.037855003,0.4828197,0.47932526,makes unloading simpler,Ease of Use
+0.011481854,0.56535935,0.42315876,bottle sleeves useful keep bottles long heavy items upright,Ease of Use
+0.061584227,0.8594523,0.07896345,stand either use one hand hold fill,Ease of Use
+0.0039714575,0.09546788,0.9005606,handles excellent carrying well hand,Ergonomics
+0.25229436,0.62971294,0.11799273,bags quite bulky makes difference carry instead,Ergonomics
+0.13722885,0.6968288,0.16594236,soft cotton,Ergonomics
+0.022666484,0.8050973,0.1722362,wide straps comfortably hang shoulder,Ergonomics
+0.0138200745,0.52023757,0.46594235,wide comfortable straps,Ergonomics
+0.7788274,0.2077839,0.013388721,often frustrated bag inability stay open filling,Interference
+0.09092122,0.78591514,0.12316369,like straps side pockets,Aesthetics
+0.08799855,0.8756981,0.036303382,like buy products made united states possible personal preference called company asked manufactured said part india,Aesthetics
+0.0047760657,0.102477655,0.89274627,interior sleeves work great keep bottles place full bag,Performance
+0.0052809846,0.039353218,0.95536584,excellent product,Performance
+0.14677927,0.7962146,0.05700606,hold lot weight products,Performance
+0.10754486,0.8259993,0.06645587,wish bags come kind rigid base bottom prevent items bunching ball bag filled tightly,Performance
+0.20102262,0.57254493,0.22643244,roomy,Performance
+0.44586372,0.52296394,0.031172303,stay square carry ton groceries random heavy crap,Performance
+0.0049624476,0.13244703,0.8625905,bottle sides awesome wine squishing rest groceries,Performance
+0.18829165,0.7259084,0.08580002,bags hold lot,Performance
+0.058178496,0.3083001,0.63352144,great,Performance
+0.10162828,0.7274671,0.17090459,fit lot one bag,Performance
+0.16676135,0.7458947,0.08734399,little smaller size thinking,Aesthetics
+0.7891374,0.19868246,0.012180125,bags appear shrink colors definitely bleed,Aesthetics
+0.24387299,0.7125769,0.043550104,buy fewer items would bags,Use Efficiency
+0.043915417,0.78188837,0.17419624,use bags carry even bags worth groceries,Use Efficiency
+0.7788274,0.2077839,0.013388721,often frustrated bag inability stay open filling,Use Efficiency
+0.037855003,0.4828197,0.47932526,makes unloading simpler,Use Efficiency
+0.03323419,0.7394139,0.22735184,spray settings really get done,Adaptability
+0.061831143,0.80790776,0.13026108,especially like flow control,Adaptability
+0.71768963,0.27176237,0.010548055,leaked probably bad unit bit back part hookup area,Durability
+0.0024275875,0.10224487,0.89532757,decent heft felt fairly solid overall,Durability
+0.9490545,0.048007168,0.002938406,shut unit makes cheap connections leak even worse,Durability
+0.2828494,0.4885775,0.22857317,rust,Durability
+0.6315094,0.3491696,0.019320998,leaks every connection,Durability
+0.20322064,0.6685306,0.12824881,always leaked matter,Durability
+0.2369608,0.5084041,0.25463513,secure,Durability
+0.06592168,0.84993917,0.08413922,metal hose metal short flexable,Ease of Use
+0.28704962,0.6876227,0.025327679,problem angle limits movement showerhead,Ease of Use
+0.5469016,0.42527696,0.027821511,hose also extremely stiff,Ease of Use
+0.3450502,0.587287,0.06766278,hose really stiff,Ease of Use
+0.06935938,0.89327747,0.037363164,basically sit underneath shower head directly next shower wall get water,Ease of Use
+0.17607942,0.69172806,0.13219249,wife like one heavy,Ergonomics
+0.014095282,0.67356193,0.31234285,less dense drop metal bare toes appreciate also wo chip tile,Interference
+0.054693535,0.5140538,0.43125257,nice quiet,Interference
+0.77326,0.2183302,0.008409859,metal parts make subsequent cleaning repairs difficult accomplish,Aesthetics
+0.023630382,0.33521375,0.64115584,easy install reinstall nice quiet especially like flow control also like ability adjust flow three settings wife like one heavy says feels like iron slippery,Aesthetics
+0.031940147,0.46020192,0.5078579,easy use install,Aesthetics
+0.02635551,0.5947922,0.37885228,installation fairly straightforward,Aesthetics
+0.03506777,0.5981744,0.36675787,sits extremely high precariously cradle though,Aesthetics
+0.065498546,0.7179575,0.21654399,easy install follow directions,Aesthetics
+0.00850068,0.12672533,0.864774,seemed pretty easy install,Aesthetics
+0.63822824,0.3378987,0.023873104,adequate taking showers rinsing etc,Performance
+0.04015984,0.5948669,0.36497328,definitely provide high enough pressure,Performance
+0.9490545,0.048007168,0.002938406,shut unit makes cheap connections leak even worse,Performance
+0.06306823,0.6741391,0.26279262,gets job done,Performance
+0.58423454,0.38217735,0.033588093,high expectations far water pressure left disappointed nonetheless,Performance
+0.006366266,0.092515446,0.9011183,pressure actually quite good flow regulator place,Performance
+0.206163,0.7227997,0.07103732,saves water barely comes,Performance
+0.009840348,0.37389088,0.6162688,going get nice flow shower head,Performance
+0.1375212,0.61247915,0.24999964,save money cut water consumption,Price
+0.24619594,0.48167604,0.2721281,really liked sort c shaped hose holder instead normal sort upside u holders find easily fail resulting getting hit head showerhead,Safety
+0.014095282,0.67356193,0.31234285,less dense drop metal bare toes appreciate also wo chip tile,Safety
+0.2369608,0.5084041,0.25463513,secure,Safety
+0.0063970084,0.36480156,0.6288014,bought trip yellowstone found one useful,Adaptability
+0.003034656,0.26041567,0.7365496,moving right big help keeping light meal snack beverage ready use,Adaptability
+0.005248666,0.049703054,0.94504833,husband love road traveling lot fridge one favor stuff,Adaptability
+0.004928907,0.06861667,0.92645437,worked great road trip,Adaptability
+0.008605504,0.11980284,0.8715917,aesthetically nice,Aesthetics
+0.4807264,0.42604107,0.09323257,months broke,Durability
+0.024751894,0.44232953,0.5329186,strong sturdy quality,Durability
+0.20689937,0.6925523,0.100548245,thing cooler cant hold temperature low long stays car sun,Durability
+0.052739415,0.639102,0.30815864,light easy hook,Ease of Use
+0.23137453,0.6152086,0.15341681,quiet,Interference
+0.7912517,0.19360556,0.015142672,fan really noisy,Interference
+0.11608318,0.6742258,0.20969102,fan loud,Interference
+0.093227156,0.74476075,0.16201207,consistent refrigerator,Performance
+0.0699675,0.499603,0.43042952,cools fine,Performance
+0.003034656,0.26041567,0.7365496,moving right big help keeping light meal snack beverage ready use,Performance
+0.009856112,0.24606645,0.7440774,keeps cans soda cold surprised worked well,Performance
+0.509475,0.44925958,0.041265406,keeps drinks really cold,Performance
+0.0051593157,0.08589955,0.90894115,far good,Performance
+0.0035927922,0.043586817,0.9528204,machine works great also improved road trip quality,Performance
+0.004928907,0.06861667,0.92645437,worked great road trip,Performance
+0.15878707,0.674042,0.16717097,quality product worth cost,Price
+0.032348476,0.3034448,0.66420674,good value,Price
+0.09388005,0.54262817,0.36349183,ca fit,Ease of Storage
+0.37550473,0.5450025,0.07949275,keeps drinks really cold pretty quickly,Use Efficiency
+0.5062593,0.4524479,0.041292816,takes hours get cold,Use Efficiency
+0.018387096,0.48169446,0.49991846,temperature cools really fast,Use Efficiency
+0.0061018593,0.07936778,0.91453034,almost many neat features,Adaptability
+0.042797033,0.45383766,0.5033653,put amazing amount steam unwrinkle many obstinate creases,Adaptability
+0.009299314,0.1831351,0.8075655,easy use great fabrics,Adaptability
+0.0045481753,0.14974019,0.84571165,steam strong way tip great getting small spots,Adaptability
+0.008269521,0.0885601,0.9031704,beautiful iron,Aesthetics
+0.021241443,0.3550672,0.6236914,good sturdy iron,Durability
+0.8401078,0.15411082,0.0057813316,however iron leaks water leaks even dry position,Durability
+0.009152691,0.38110882,0.6097385,actually like weight lighter irons often feel like durable,Durability
+0.0047678133,0.18927248,0.80595976,always purchased rowenta products find brand reliable iron really takes next level,Durability
+0.87467605,0.12081991,0.004504018,piece water supply inlet broke like comments iron leaks water base,Durability
+0.17039809,0.72984654,0.09975533,power cord cheaply made mine cracked first month normal use,Durability
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.009299314,0.1831351,0.8075655,easy use great fabrics,Ease of Use
+0.1333738,0.7726945,0.093931705,comfort handle,Ergonomics
+0.33461094,0.60596716,0.059421893,heat knob setting easily dislodged altered fat fingers like mine,Interference
+0.11077573,0.82897985,0.060244378,pain add water empty every day,Interference
+0.06454128,0.762212,0.17324676,large water reservoir,Aesthetics
+0.00491938,0.10831189,0.88676876,recommend product works well,Performance
+0.098875,0.7933868,0.10773818,gets hot irons clothes,Performance
+0.015911898,0.26392198,0.7201662,worked flawlessly,Performance
+0.071062736,0.62402636,0.30491093,works better iron,Performance
+0.011140859,0.08923269,0.89962643,wow best iron ive ever owned,Performance
+0.13265637,0.67222565,0.19511797,price iron better quality,Price
+0.04368938,0.27100584,0.68530476,great price,Price
+0.104212716,0.7769515,0.118835814,iron takes moments heat,Use Efficiency
+0.06801884,0.5978598,0.33412135,gets hot really fast,Use Efficiency
+0.008843846,0.42674175,0.5644144,heats quickly,Use Efficiency
+0.08961421,0.65758646,0.25279933,works fast,Use Efficiency
+0.054655362,0.85211647,0.09322818,wash personal laundry shirts jeans towels wash cloths twin sized sheets pillowcases,Adaptability
+0.0030048846,0.0691015,0.9278936,also great road trips camping,Adaptability
+0.019786257,0.46311724,0.51709646,support holds everything together sturdy thought,Durability
+0.7084211,0.26757982,0.023999004,poor durability,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.9159602,0.077945575,0.0060942476,cheap flimsy plastic housing broke fifth usage,Durability
+0.025955796,0.4032023,0.5708419,definitely could made durable,Durability
+0.05235477,0.6322477,0.3153975,assembly easy light weight,Ease of Use
+0.04382545,0.43255487,0.5236197,little machine easy put together,Ease of Use
+0.19230379,0.59563017,0.21206601,compact,Ease of Storage
+0.26101217,0.6971629,0.041824907,daughter college student needed something portable require electricity due dorm room regulations,Ease of Storage
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.028918674,0.7501635,0.2209179,hand crank easy turn,Ease of Use
+0.00544765,0.1447253,0.84982705,kids fun spinning,Performance
+0.2094824,0.7510937,0.039423876,suction cups bottom machine mean set tub tiled surface need put effort getting back,Interference
+0.012519948,0.1000717,0.8874083,great job getting clothes clean,Performance
+0.00543908,0.092467844,0.9020931,works really well,Performance
+0.010649174,0.12797974,0.8613711,works excellent,Performance
+0.015567607,0.32295096,0.6614814,works well,Performance
+0.02432532,0.49473238,0.4809423,works well clothes come clean,Performance
+0.25350583,0.6797655,0.0667287,happy save money would used laundromat,Price
+0.047326148,0.71803147,0.23464245,already paid time savings cost product use,Price
+0.006698457,0.2073585,0.78594303,making easy budget well,Price
+0.011822451,0.11097718,0.8772003,washer great money saving idea,Price
+0.22610302,0.52463746,0.24925953,efficient,Use Efficiency
+0.16968808,0.59047866,0.23983327,fast,Use Efficiency
+0.10461139,0.8106492,0.084739365,holds lot clothing thought would,Use Efficiency
+0.11167801,0.8165841,0.07173785,takes minutes time wash,Use Efficiency
+0.048374254,0.84806484,0.103560925,beginning notice towels two sides different texture one side softer silkier side absorbent,Adaptability
+0.080208786,0.85669655,0.06309466,also like size color feel weight towel,Aesthetics
+0.0061868373,0.107224874,0.88658834,chocolate color rich brown nice,Aesthetics
+0.06872803,0.8795558,0.051716145,keeps shape pill stray strands,Durability
+0.22685736,0.7065353,0.06660735,pilling loose threads,Durability
+0.08936673,0.8348756,0.07575767,loops middle towel pulled first wash,Durability
+0.960197,0.036762144,0.0030408392,pulling dryer soo disappointed find falling apart shedding everywhere,Durability
+0.025864804,0.30537924,0.66875595,good quality fabric,Durability
+0.042142596,0.6658363,0.29202113,washed three times already washed well,Durability
+0.13991207,0.80691564,0.053172242,thick plush held washing,Durability
+0.07227073,0.7805325,0.14719686,soft already coming apart arrived,Durability
+0.7216548,0.26969755,0.008647691,used towels already several times see issues,Durability
+0.055856984,0.8090764,0.13506667,dries quickly enough rack overnight,Ease of Reprocessing
+0.10349611,0.7351946,0.16130929,dry quickly,Ease of Reprocessing
+0.025864804,0.30537924,0.66875595,good quality fabric,Ergonomics
+0.080208786,0.85669655,0.06309466,also like size color feel weight towel,Ergonomics
+0.30585763,0.56892,0.12522228,soft,Ergonomics
+0.021474896,0.39751476,0.5810104,comfortable,Ergonomics
+0.30585763,0.56892,0.12522228,soft,Ergonomics
+0.03340702,0.47538403,0.49120894,absorb well,Performance
+0.10027081,0.59930605,0.30042315,absorbent,Performance
+0.005503059,0.07374469,0.9207522,good product far,Performance
+0.025864804,0.30537924,0.66875595,good quality fabric,Performance
+0.010898573,0.10886413,0.88023734,set least months great,Performance
+0.57315356,0.3715497,0.055296715,thirsty towels,Performance
+0.011326021,0.1720545,0.81661946,towel excellent,Performance
+0.03532089,0.6149451,0.34973398,purchased towels less half price one without problems years,Price
+0.004481839,0.081621334,0.91389686,organic cotton fair price great,Price
+0.029776454,0.6295143,0.34070927,towel well priced,Price
+0.014795118,0.13898537,0.84621954,good deal,Price
+0.019515827,0.29845285,0.6820313,nice weight,Aesthetics
+0.04509061,0.8045526,0.15035675,side snagged places anything major,Aesthetics
+0.007871084,0.30953342,0.68259543,towel excellent absorption speed,Use Efficiency
+0.04340052,0.88977844,0.06682106,current set cookware works induction surface,Adaptability
+0.0073013837,0.09679139,0.8959072,put rv great,Adaptability
+0.018271469,0.823255,0.1584735,makes sandwiches breeze stir fry saute eggs pancakes believe beat,Adaptability
+0.08568839,0.81359226,0.1007194,thing stove cook one thing time solution,Adaptability
+0.08608765,0.85744506,0.056467284,operate anywhere electrical outlet,Adaptability
+0.2814183,0.6863013,0.032280453,going change rating though lack switch,Interference
+0.117165685,0.80956817,0.073266104,precise temperature controls,Interference
+0.868715,0.12595445,0.0053306054,around third use product stopped working,Durability
+0.030591505,0.5823078,0.3871007,comes great pan seems keep capability longer pans past,Durability
+0.39190537,0.57145673,0.036637932,died weeks purchase,Durability
+0.006389493,0.053985737,0.9396247,pan wonderful also crazy easy clean,Ease of Reprocessing
+0.09657671,0.8058295,0.097593755,easy adjust heat needed,Ease of Use
+0.08991523,0.8405808,0.06950406,set temp continually adjust,Ease of Use
+0.040523954,0.4699063,0.48956972,temperature much better controlled conventional electric stove,Ease of Use
+0.030591505,0.5823078,0.3871007,comes great pan seems keep capability longer pans past,Interference
+0.36813623,0.57283664,0.05902711,food slides,Interference
+0.08991523,0.8405808,0.06950406,set temp continually adjust,Interference
+0.086027406,0.8147801,0.0991925,cook pan included heavy duty ceramic,Interference
+0.62047696,0.35809922,0.021423807,noise creates makes hard watch tv listen music talk phone without turning volume,Interference
+0.056655917,0.74309117,0.20025295,cooks food evenly,Performance
+0.0045463927,0.06429641,0.9311572,fry pan really terrific,Performance
+0.0073013837,0.09679139,0.8959072,put rv great,Performance
+0.079866625,0.76316726,0.15696606,keeps temperature,Performance
+0.020612754,0.50648314,0.47290406,temperature seems accurate,Performance
+0.022445032,0.53211284,0.4454421,although still fairly hot actually touch cooktop surface right cooking,Safety
+0.13579778,0.7487636,0.11543865,safer use,Safety
+0.026074661,0.7682986,0.20562674,boiled water cheap stainless coffee pot minute,Use Efficiency
+0.016250458,0.520273,0.46347654,heats fast,Use Efficiency
+0.00458542,0.18154085,0.8138737,heats super fast,Use Efficiency
+0.064360544,0.7188328,0.2168067,saves hours time kitchen,Use Efficiency
+0.3677602,0.5495556,0.082684144,one even efficient,Use Efficiency
+0.0077103674,0.28979558,0.7024941,love illuminate front house dusk turn dawn,Adaptability
+0.02394491,0.8241912,0.15186392,skeptical would work light fixtures entry door since fixtures dark metal covers lot bulb bulbs manage sense daylight well,Adaptability
+0.004356283,0.04695727,0.9486864,look good,Aesthetics
+0.46833524,0.49807677,0.033588015,however one died one month sure winners yet,Durability
+0.6275436,0.35428798,0.018168423,one bulb stopped working weeks buy,Durability
+0.0804249,0.59358734,0.3259878,stars working described already blown,Durability
+0.17451645,0.6667377,0.15874587,fits housing well works cloudy day well wo come completely dark however one died one month sure winners yet star bynom de guerre deep southon july size daylight,Ease of Use
+0.016594369,0.5707058,0.41269988,bulbs fit well regular fixtures,Ease of Use
+0.22042868,0.725405,0.05416635,used past months like extensions sensors place,Interference
+0.016790364,0.41136464,0.571845,problem give much light,Performance
+0.03821245,0.8082281,0.15355952,right amount light bright dim,Performance
+0.008933132,0.42672122,0.5643456,daylight bulb provides bright white light satisfied needs,Performance
+0.0075457715,0.10507647,0.88737774,lights great supply good lighting bright dim,Performance
+0.06280184,0.58803415,0.3491641,meet lighting needs perfectly,Performance
+0.0069422494,0.072823934,0.92023385,work great,Performance
+0.059741713,0.52725387,0.41300443,bright,Performance
+0.012793717,0.28481662,0.70238966,worked well,Performance
+0.010261963,0.27794966,0.71178836,good quality enough bright cover front area garage,Performance
+0.0062532453,0.59829515,0.3954516,work well dusk dawn exterior lighting,Performance
+0.095751286,0.79421556,0.11003312,annual cost lighting less bucks,Price
+0.026822839,0.5750014,0.39817575,six watt bulbs provide low operating cost,Price
+0.050159518,0.8227365,0.127104,carry tablet camera spare lens pens sketch pad wallet bag,Adaptability
+0.17987877,0.6900786,0.13004257,traveled bag,Adaptability
+0.07585125,0.82778937,0.09635942,zipped compartments smaller items,Adaptability
+0.23073047,0.6840721,0.08519753,versatile bag,Adaptability
+0.0047439924,0.04369826,0.95155776,really beautiful,Aesthetics
+0.00797115,0.08062479,0.9114041,good looking,Aesthetics
+0.012864669,0.122034594,0.8651007,love look,Aesthetics
+0.0028281999,0.02279305,0.97437876,looks great,Aesthetics
+0.0049766665,0.052226055,0.9427973,still looks good,Aesthetics
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.19876799,0.69260645,0.108625524,durable enough spend life construction sites train seats,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.018911202,0.51705706,0.46403173,also feels durable,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.02171475,0.38606587,0.59221935,fabric seems durable,Durability
+0.47232124,0.4930491,0.034629647,difficult use,Ease of Use
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.019971557,0.37083694,0.6091915,makes quick easy airport security,Ease of Use
+0.013423228,0.47144598,0.5151308,comfortable carry,Ergonomics
+0.009672132,0.24690391,0.743424,comfortable enough carry day,Ergonomics
+0.011258672,0.69650584,0.29223546,handle centered carry handle comfortable,Ergonomics
+0.050411824,0.87930936,0.070278734,centered well u carry bag using handle tends tilt,Interference
+0.3838477,0.5829488,0.03320342,complaint stars location pen holder able steal pens ease,Interference
+0.27200463,0.60072774,0.1272676,one problems bags like lack pockets bag solves issue least different compartments,Aesthetics
+0.5567762,0.40738884,0.035834927,handle aligned along center gravity making useless,Aesthetics
+0.14203966,0.7758465,0.08211387,laptop compartment padded back,Aesthetics
+0.09994449,0.7808484,0.11920715,padding laptop side closest body,Aesthetics
+0.022426337,0.2665847,0.710989,fits laptop perfectly,Performance
+0.0038044918,0.340595,0.65560055,use transport macbook ipad pro fit ease along chargers,Performance
+0.011888115,0.16008666,0.8280253,fits beautifully plenty added storage,Performance
+0.03888276,0.7359725,0.22514479,padded keep items safe,Performance
+0.004122879,0.054287072,0.9415901,works great far,Performance
+0.026665157,0.23730251,0.73603237,price good product,Price
+0.02316088,0.3126304,0.6642087,good value money,Price
+0.2232066,0.5290897,0.24770379,priced right,Price
+0.019971557,0.37083694,0.6091915,makes quick easy airport security,Use Efficiency
+0.22387204,0.4915168,0.28461117,line,Aesthetics
+0.21284576,0.72562706,0.061527178,writes little thin,Aesthetics
+0.0106506,0.31063718,0.67871225,also clip decently strong break easily,Durability
+0.052289367,0.703472,0.24423854,pens last long time,Durability
+0.36285135,0.61040086,0.0267478,several broke early bought,Durability
+0.22206758,0.53518337,0.24274905,last,Durability
+0.067468226,0.6421825,0.2903493,write forever,Durability
+0.005436135,0.29073483,0.70382905,strong holds super year two,Durability
+0.010472207,0.3696744,0.6198533,comfortable hand,Ergonomics
+0.015456513,0.47678593,0.50775754,comfortable hold,Ergonomics
+0.01842949,0.43669477,0.54487574,comfortable cushion grip,Ergonomics
+0.021270163,0.7030852,0.27564463,comfortable hold write,Ergonomics
+0.035035178,0.55126053,0.4137043,quality comfortable cushioning,Ergonomics
+0.22975384,0.58161247,0.18863375,smudge,Interference
+0.040454708,0.87671345,0.082831785,critique pen sometimes lets much ink tiny splotches ink,Interference
+0.427467,0.48169214,0.09084085,smoooooth,Performance
+0.012317458,0.62463236,0.36305025,steady ink flow smooth writing,Performance
+0.22975384,0.58161247,0.18863375,smudge,Performance
+0.13944435,0.71736825,0.14318739,quality item,Performance
+0.0046566445,0.054466546,0.9408768,really good write,Performance
+0.04719157,0.54449666,0.40831184,smooth writing never skips bleeds,Performance
+0.94618857,0.04989431,0.0039171493,ink pens dried making unusable,Performance
+0.058178496,0.3083001,0.63352144,great,Performance
+0.0079239635,0.14231905,0.84975696,pens amazing note taking,Performance
+0.050812446,0.47074282,0.47844476,write okay,Performance
+0.03998683,0.2915108,0.66850233,good price,Price
+0.05984156,0.8440749,0.09608354,think bit priced recycled product,Price
+0.010514907,0.14263357,0.8468515,ap price great well,Price
+0.08482337,0.63093054,0.284246,well priced,Price
+0.5581723,0.41590792,0.025919832,significant number batteries yet one fail,Durability
+0.8796158,0.1132561,0.0071281977,controllers drain theses batteries much faster,Durability
+0.002533909,0.14154227,0.85592383,first set still going strong year half,Durability
+0.015822629,0.66294056,0.32123676,pleasantly supplied last long alkaline counterparts,Durability
+0.015781803,0.5633634,0.4208548,hold charge well,Durability
+0.15598412,0.80336636,0.040649503,may need charged slightly often brands,Durability
+0.10440668,0.5500034,0.34558997,well build,Durability
+0.042733505,0.63401115,0.32325533,go power lot faster typical batteries,Durability
+0.18911743,0.72562236,0.08526023,hold charge really long time,Durability
+0.1086343,0.78291583,0.108449884,hold onto charge years,Durability
+0.15631919,0.7607765,0.082904264,find inconvenient recharge,Ease of Reprocessing
+0.046908,0.5241872,0.4289048,charge well,Ease of Reprocessing
+0.18569487,0.5234047,0.2909004,although work,Performance
+0.052229714,0.3541448,0.5936255,fantastic products,Performance
+0.4593706,0.5073882,0.033241212,seem slightly less power,Performance
+0.0069422494,0.072823934,0.92023385,work great,Performance
+0.024194436,0.513214,0.4625916,bought hoping save money definitely,Price
+0.030087277,0.4528593,0.51705337,glad able buy quantity gave price break,Price
+0.008591295,0.092727475,0.8986812,totally happy honestly ca beat price ask better quality battery price,Price
+0.0030591006,0.030315083,0.9666258,looks good,Aesthetics
+0.008866592,0.07014144,0.920992,beautiful,Aesthetics
+0.00638597,0.04993583,0.94367814,gorgeous,Aesthetics
+0.003019703,0.019967986,0.9770123,looks gorgeous,Aesthetics
+0.011195643,0.21006906,0.7787353,looks classy,Aesthetics
+0.005920892,0.03147041,0.9626087,fantastic beautiful,Aesthetics
+0.1997548,0.71051717,0.089728065,careful fragile stuff,Durability
+0.3698012,0.5962208,0.03397802,adhesive tape use strong stays problem,Durability
+0.19923098,0.7567057,0.044063285,wood peeling sticky tapes,Durability
+0.30715677,0.53679913,0.15604411,found way remove sticky backs easy makes whole task times difficult slower,Ease of Use
+0.016955255,0.13564287,0.84740186,awesome easy,Ease of Use
+0.07380454,0.6493255,0.27686998,easy installation,Ease of Use
+0.04595474,0.80931425,0.14473096,easy cut backing difficult peel,Ease of Use
+0.07884347,0.57752997,0.34362662,easy install,Ease of Use
+0.027488807,0.38178715,0.590724,installation simple easy,Ease of Use
+0.07884347,0.57752997,0.34362662,easy install,Ease of Use
+0.124068856,0.59971714,0.276214,easy put work,Ease of Use
+0.65041536,0.3356441,0.013940512,thing say big fan tape could real pain sometimes trying peel backing,Ease of Use
+0.083163634,0.6497206,0.2671157,easy diy project,Ease of Use
+0.22192232,0.6324802,0.14559747,went easily,Ease of Use
+0.011748668,0.11369024,0.8745611,excellent quality,Performance
+0.08399927,0.3401674,0.5758334,product perfect,Performance
+0.56324565,0.38640195,0.050352406,pricey product,Price
+0.30715677,0.53679913,0.15604411,found way remove sticky backs easy makes whole task times difficult slower,Use Efficiency
+0.10449274,0.8438196,0.051687624,took hrs sq ft wall,Use Efficiency
+0.4557016,0.50148267,0.04281573,foil thin tears easily,Durability
+0.5297039,0.43393376,0.036362324,foil thinnest ever seen life tears punctures easily,Durability
+0.6398094,0.32111076,0.039079886,tears easily,Durability
+0.33044547,0.5660499,0.10350465,tears,Durability
+0.48326334,0.4754815,0.04125508,paper thin tears easily,Durability
+0.6929965,0.27821928,0.028784314,flimsy tears easily,Durability
+0.46482965,0.47896782,0.056202535,thin tears easily,Durability
+0.23724198,0.57747996,0.18527809,usable barely,Ease of Use
+0.15898006,0.64670885,0.19431105,need use amount product compared decent brand,Aesthetics
+0.02403928,0.2539606,0.7220001,foil good,Performance
+0.2750509,0.527401,0.19754815,goo quality,Performance
+0.0076825214,0.103671156,0.8886463,overall good quality,Performance
+0.030022543,0.30399343,0.66598403,works perfectly,Performance
+0.014774735,0.1773017,0.80792356,great savings,Price
+0.2529985,0.6894552,0.057546288,really heavy pay large amount,Price
+0.010524517,0.1092604,0.88021505,look nice enough give gift,Aesthetics
+0.008187063,0.054326307,0.93748665,beautiful truly describe watch,Aesthetics
+0.6773023,0.2714274,0.051270265,elegant,Aesthetics
+0.6975041,0.27958867,0.022907201,elegant time piece,Aesthetics
+0.013544111,0.11302749,0.8734284,even beautiful person,Aesthetics
+0.0028281999,0.02279305,0.97437876,looks great,Aesthetics
+0.14722656,0.67943615,0.17333727,real wrist,Aesthetics
+0.007857443,0.0616287,0.9305139,watch looked nice enough,Aesthetics
+0.8725777,0.11880973,0.00861257,crown little button side literally broke,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.1054135,0.8173155,0.077270985,steel casing durable wear scratching,Durability
+0.026602194,0.38895297,0.5844448,easy read,Ease of Use
+0.025526885,0.8477856,0.12668742,crown easy use time date adjustment,Ease of Use
+0.0142971575,0.3458506,0.6398523,actually comfortable,Ergonomics
+0.017058201,0.5190561,0.46388572,comfortable wear,Ergonomics
+0.6666708,0.306382,0.026947213,packaging mess came,Aesthetics
+0.30094758,0.65999526,0.039057225,return policy restrictive,Aesthetics
+0.17783608,0.79103065,0.031133315,customer service phone number could find bought website sent refund request web form site answer yet,Aesthetics
+0.21594857,0.5629326,0.22111881,dependable,Performance
+0.013629897,0.20268473,0.78368545,good quality well,Performance
+0.006389336,0.05630238,0.93730825,keeps great time,Performance
+0.013625428,0.3080927,0.6782819,keeps time well,Performance
+0.01772068,0.7579124,0.2243669,quartz movement keeps accurate time,Performance
+0.7735083,0.2135427,0.012948941,watch keeps time poorly,Performance
+0.061542843,0.81297815,0.12547892,local jewelry store,Price
+0.017085614,0.4303126,0.5526018,perfectly cut measured make sure sides level even need combine another piece,Adaptability
+0.018494906,0.832771,0.14873403,arrived rolled almost immediately layed flat took boxes time things like keep rolled corners awhile,Aesthetics
+0.104472734,0.71825016,0.17727713,last long purpose,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.033399504,0.7282854,0.23831518,beating months much shown wear day bought,Durability
+0.14260119,0.62130696,0.23609191,heavy durable,Durability
+0.03276084,0.33704787,0.63019127,seams fit together nicely nothing dogs chew,Durability
+0.084377706,0.52572674,0.38989553,mat solid durable,Durability
+0.14767498,0.773231,0.07909402,heavy duty durable,Durability
+0.5368243,0.4323345,0.030841133,worked short started breaking,Durability
+0.014734554,0.4850368,0.50022864,much warmer concrete floor,Ergonomics
+0.0185379,0.39995244,0.58150965,mats provide enough cushion comfortable,Ergonomics
+0.3284845,0.5900614,0.081454,deadens sound,Interference
+0.71436733,0.27059004,0.015042631,sort sweet rubbery odor bothersome used indoor,Interference
+0.14017339,0.75948954,0.10033707,reduces noise,Interference
+0.80751204,0.16831043,0.024177521,stinky smell,Interference
+0.026810069,0.43352363,0.53966624,job well,Performance
+0.003780571,0.088356,0.90786344,excellent use excercise equipment mat,Performance
+0.091010444,0.85845804,0.050531518,using buffer file cabinets butcher block office desk protecting surfaces preventing butcher block slipping cabinets,Performance
+0.29636663,0.6481443,0.055489022,protect floor scuffs marks,Performance
+0.09259872,0.46271688,0.44468445,quality product,Performance
+0.011748668,0.11369024,0.8745611,excellent quality,Performance
+0.30682972,0.5708594,0.12231091,price,Price
+0.0153297605,0.21537815,0.7692921,best price quality product,Price
+0.14680195,0.70045966,0.15273838,reasonable price,Price
+0.11270428,0.62404245,0.26325327,worth investment,Price
+0.09029043,0.67879415,0.23091547,fan compact size,Adaptability
+0.16857354,0.66437197,0.16705455,color selection,Aesthetics
+0.013132893,0.45063466,0.5362325,big fan colors got,Aesthetics
+0.8029398,0.17410938,0.022950811,wish could chosen color brown boring love product,Aesthetics
+0.24012364,0.68621457,0.07366181,wish subject dividers instead two,Interference
+0.92661023,0.07024902,0.0031407126,poor materials fell apart quickly,Durability
+0.09534595,0.7744079,0.13024609,sturdy notebook,Durability
+0.0053039356,0.11513887,0.8795572,great sturdy notebooks,Durability
+0.024030825,0.8697605,0.10620863,larger ring bindings standard cheap notebook office depot,Durability
+0.09029043,0.67879415,0.23091547,fan compact size,Ease of Storage
+0.09029043,0.67879415,0.23091547,fan compact size,Ease of Use
+0.008670108,0.30034426,0.6909856,perfect size keeping track everyday things,Ease of Use
+0.09029043,0.67879415,0.23091547,fan compact size,Ergonomics
+0.09029043,0.67879415,0.23091547,fan compact size,Interference
+0.10089654,0.7946289,0.104474604,standard notebook,Performance
+0.0054193856,0.07282979,0.9217508,pretty good notebook though,Performance
+0.22276036,0.6102335,0.16700613,worthy price,Price
+0.017831178,0.2347373,0.7474315,expensive price one notebook hardcover makes worth every penny,Price
+0.08488078,0.81709206,0.09802716,price seems high paper notebook,Price
+0.27758875,0.4647001,0.2577112,expensive,Price
+0.09029043,0.67879415,0.23091547,fan compact size,Use Efficiency
+0.008670108,0.30034426,0.6909856,perfect size keeping track everyday things,Use Efficiency
+0.104024395,0.8400736,0.055901986,gives first class finish letter label,Aesthetics
+0.74899215,0.23988946,0.011118461,edges paper rough see printing inkjet printer side overall texture poor,Aesthetics
+0.016498277,0.47073534,0.5127664,printing turns crisp clear,Aesthetics
+0.0079300655,0.16920099,0.82286894,nice sturdy thickness sheet,Durability
+0.019849151,0.45529497,0.52485585,strong paper,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.051813524,0.50134355,0.44684294,paper strong,Durability
+0.4138063,0.56245834,0.02373532,find difficult use,Ease of Use
+0.030768704,0.21863635,0.750595,great quality,Performance
+0.1027744,0.50533605,0.39188957,high quality,Performance
+0.008500098,0.15550011,0.8359998,paper quality excellent,Performance
+0.016498277,0.47073534,0.5127664,printing turns crisp clear,Performance
+0.005523077,0.096162364,0.8983146,quality recycled paper excellent,Performance
+0.006749044,0.09040024,0.9028507,good paper,Performance
+0.009154416,0.0883821,0.90246344,works great,Performance
+0.0933418,0.7920928,0.114565395,expensive recycled multipurpose paper,Price
+0.10716799,0.71491534,0.17791669,reasonably priced,Price
+0.14131692,0.77257746,0.0861057,price would like see lower,Price
+0.0016814885,0.015888307,0.9824302,great outdoors plastic looks good outside,Adaptability
+0.004559891,0.13599779,0.85944235,perfect outdoors salty air environment,Adaptability
+0.012599422,0.2545404,0.73286015,would great outdoors although bought living room,Adaptability
+0.017062977,0.16078466,0.8221524,nice color,Aesthetics
+0.0031868748,0.0308383,0.96597475,beautiful color,Aesthetics
+0.002060196,0.01995359,0.97798616,looks cute,Aesthetics
+0.009475181,0.08792503,0.90259975,love color,Aesthetics
+0.0031019207,0.03517103,0.961727,really cute,Aesthetics
+0.002661489,0.023328412,0.97401005,really looks great,Aesthetics
+0.0030501594,0.065900065,0.9310498,colors true picture goes great rest decor,Aesthetics
+0.0015595221,0.02115332,0.9772872,rug pretty looks good back patio,Aesthetics
+0.12022251,0.76983076,0.10994669,held thru weather,Durability
+0.07290262,0.855973,0.071124375,think color however last material made,Durability
+0.018570958,0.6448991,0.33652997,sturdy like returned,Durability
+0.004559891,0.13599779,0.85944235,perfect outdoors salty air environment,Durability
+0.12553948,0.5327778,0.3416827,easy enough clean,Ease of Reprocessing
+0.0077063385,0.14041543,0.8518783,super easy clean,Ease of Reprocessing
+0.11995365,0.76323533,0.11681101,rug soft rugs,Ergonomics
+0.09414841,0.85250765,0.053343885,light weight tend blow floor windy,Interference
+0.7166538,0.26346293,0.019883256,seems plastic though,Aesthetics
+0.09414841,0.85250765,0.053343885,light weight tend blow floor windy,Aesthetics
+0.026325172,0.13830867,0.83536613,bought balcony keep getting splinters go outside barefoot absolutely love,Performance
+0.002042254,0.05809174,0.93986607,quality seems solid would definitely order fab habitat rug,Performance
+0.030617472,0.73954576,0.22983669,reversible pretty rug make room ca complain price,Price
+0.7166538,0.26346293,0.019883256,seems plastic though,Aesthetics
+0.04033899,0.8200318,0.13962924,long enough tall person use even low guitar position using acoustic strap button neck,Adaptability
+0.0062097963,0.08977283,0.9040174,thought strap looked cool,Aesthetics
+0.0023037756,0.019825613,0.9778706,awesome great color,Aesthetics
+0.005048102,0.115139775,0.8798121,extremely stylish,Aesthetics
+0.012308969,0.28560555,0.7020855,cool strap,Aesthetics
+0.010536697,0.3642439,0.62521946,also quite secure,Durability
+0.06484509,0.47159773,0.46355718,strong,Durability
+0.021567985,0.45279297,0.525639,well made sturdy,Durability
+0.008631337,0.11217076,0.8791979,really well made,Durability
+0.010782149,0.19111003,0.7981078,nice strong,Durability
+0.05157189,0.65374434,0.29468375,strong straps,Durability
+0.06484509,0.47159773,0.46355718,strong,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.09031051,0.668378,0.24131152,easy adjust,Ease of Use
+0.15451272,0.6845687,0.16091856,strap adjusts easily,Ease of Use
+0.017996166,0.22989729,0.7521065,fairly easy get,Ease of Use
+0.021474896,0.39751476,0.5810104,comfortable,Ergonomics
+0.021474896,0.39751476,0.5810104,comfortable,Ergonomics
+0.023705382,0.5361339,0.4401607,comfortable strap,Ergonomics
+0.023705382,0.5361339,0.4401607,comfortable strap,Ergonomics
+0.04033899,0.8200318,0.13962924,long enough tall person use even low guitar position using acoustic strap button neck,Ergonomics
+0.10889215,0.8115486,0.079559304,plenty length us like instruments,Ergonomics
+0.021474896,0.39751476,0.5810104,comfortable,Ergonomics
+0.010536697,0.3642439,0.62521946,also quite secure,Performance
+0.63913065,0.3437305,0.017138865,strap slippery find hold guitar left hand playing otherwise slides defeats purpose using strap,Performance
+0.07378783,0.5106057,0.4156065,exceptional quality,Performance
+0.030768704,0.21863635,0.750595,great quality,Performance
+0.2582943,0.45127237,0.29043332,,Performance
+0.04723923,0.87565696,0.07710382,holds bass securely,Performance
+0.06676853,0.6927588,0.24047273,top quality seatbelt material,Performance
+0.5004553,0.44743508,0.05210959,strap guitar feels like serious piece equipment dinky nylon ones stores give away,Aesthetics
+0.8310115,0.15799707,0.010991519,falls apart easily,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.2550343,0.66615486,0.078810744,thinner flimsier,Durability
+0.28301457,0.57845545,0.13852999,thin,Durability
+0.07980663,0.8147245,0.105468914,also rolls rnds glued hard get started,Ease of Use
+0.026657669,0.54188627,0.43145603,comfortable use,Ergonomics
+0.31826344,0.5442587,0.13747783,rough,Ergonomics
+0.1526714,0.7489338,0.09839485,double ply rough recycled papers,Ergonomics
+0.057359766,0.4600402,0.48260003,fairly soft,Ergonomics
+0.37098205,0.55263555,0.07638236,softness,Ergonomics
+0.22383207,0.6274408,0.1487272,soft enough,Ergonomics
+0.03542697,0.5853213,0.37925178,rolls actually softer normal,Ergonomics
+0.02337204,0.31827325,0.6583547,good septic tank,Interference
+0.17998897,0.71321,0.106801085,safe septic tank,Interference
+0.12433758,0.5871147,0.28854772,lint free,Interference
+0.4834868,0.49723607,0.01927707,sometimes toilet paper separates inner tube causing tube slide end slightly happen often flaw ever find product,Interference
+0.099448524,0.79348785,0.107063584,wish sheets per roll,Aesthetics
+0.065656416,0.7471378,0.1872058,take extra get job done,Performance
+0.06306823,0.6741391,0.26279262,gets job done,Performance
+0.011239882,0.1015363,0.88722384,good product,Performance
+0.045255344,0.7473403,0.20740436,sturdy absorbent,Performance
+0.56833285,0.37051928,0.06114792,thick enough job,Performance
+0.023072174,0.1714161,0.8055117,great price recycled,Price
+0.10716799,0.71491534,0.17791669,reasonably priced,Price
+0.15484345,0.6190041,0.22615251,cheap price,Price
+0.04368938,0.27100584,0.68530476,great price,Price
+0.0232109,0.29790127,0.67888784,sold good price,Price
+0.14680195,0.70045966,0.15273838,reasonable price,Price
+0.08589844,0.7570824,0.15701918,need grab full hand full opposed sheets,Use Efficiency
+0.88134634,0.10943738,0.009216245,interchangable lefties,Adaptability
+0.005621524,0.10118869,0.8931898,handles cool especially crushed money handle,Aesthetics
+0.43514508,0.48836344,0.076491505,little flimsy,Durability
+0.5633134,0.41445047,0.022236139,however handles broke within months,Durability
+0.006490436,0.14913538,0.84437424,handle excellent easy hold,Ease of Use
+0.010392719,0.30387583,0.6857315,larger handle makes easier grasp navigate,Ease of Use
+0.0033449638,0.05293645,0.9437186,also love ergonomic handle design,Ergonomics
+0.015456513,0.47678593,0.50775754,comfortable hold,Ergonomics
+0.06291926,0.6698035,0.26727724,handle comfortable,Ergonomics
+0.003702373,0.07414529,0.92215234,nice huge ergonomic handle,Ergonomics
+0.0068997536,0.13965417,0.8534461,handle feels good hand,Ergonomics
+0.03736755,0.49945962,0.46317282,fantastic value brushes,Price
+0.008544747,0.34541303,0.6460422,travel eating highly viable option,Adaptability
+0.12237887,0.76194465,0.11567651,use yogurt applesauce even spaghettios,Adaptability
+0.14221533,0.80984104,0.047943573,fact fit squeeze station serisouly sold,Adaptability
+0.58275074,0.38743535,0.029813908,cap broke first use,Durability
+0.14403859,0.7417792,0.1141822,least means wont spill,Durability
+0.18759513,0.6443127,0.16809219,sturdy,Durability
+0.11388376,0.8171561,0.06896015,thing say super careful lids bend damage take,Durability
+0.04551177,0.6973414,0.25714687,pouches seal well,Durability
+0.11390602,0.8040829,0.0820112,zipper strong leaks,Durability
+0.039319843,0.74906343,0.21161672,food pouches sturdy,Durability
+0.007782211,0.06493562,0.92728215,held great several months,Durability
+0.006556426,0.13275754,0.860686,durable well made,Durability
+0.007107171,0.26243833,0.7304545,infantino squeeze station makes filling breeze cleaning easy zippered bottom,Ease of Reprocessing
+0.06455755,0.6609503,0.27449214,wish bit bigger opened,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.03058419,0.58879936,0.38061646,easy clean bottle brush,Ease of Reprocessing
+0.27220434,0.65917325,0.06862238,difficult fill clean,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.08511425,0.62279916,0.29208663,easy fill,Ease of Reprocessing
+0.17177264,0.6884195,0.13980784,hard get open clean bottom,Ease of Reprocessing
+0.0041965833,0.15383834,0.84196514,feel clean well,Ease of Reprocessing
+0.75011414,0.23157994,0.018305913,really hard time getting zip lock open time wash,Ease of Reprocessing
+0.03784498,0.6700355,0.29211953,washes well,Ease of Reprocessing
+0.11738958,0.7796258,0.10298465,pouches little hard fill,Ease of Reprocessing
+0.03561379,0.5179422,0.44644406,easy clean dishwasher,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.18780546,0.65489995,0.15729462,easy feed,Ease of Use
+0.14100336,0.75490415,0.104092546,easy month old hold,Ease of Use
+0.44866753,0.52385944,0.027473025,trying avoid mess two year old bowl spoon,Ease of Use
+0.02458848,0.74486107,0.23055048,helped motor skills learning push food bottom top,Aesthetics
+0.013515984,0.3687517,0.6177323,work well,Performance
+0.21393083,0.69304794,0.09302121,ca beat squooshis size price quality,Performance
+0.008541523,0.17575029,0.81570816,overall still definitely worth paid many times buying disposable pouches store,Price
+0.21393083,0.69304794,0.09302121,ca beat squooshis size price quality,Price
+0.06455755,0.6609503,0.27449214,wish bit bigger opened,Use Efficiency
+0.29927245,0.5747345,0.12599295,fit much,Use Efficiency
+0.01625889,0.46993953,0.5138016,allows us versatility choices coffee,Adaptability
+0.013322617,0.39524582,0.5914316,brews fine coarse ground coffee fine,Adaptability
+0.08259694,0.82288504,0.09451802,fit commercial keurig version,Adaptability
+0.14942847,0.6590781,0.19149339,fit keurig,Adaptability
+0.0054859174,0.15689069,0.83762336,ecko brew paper filters fit perfectly,Adaptability
+0.14942847,0.6590781,0.19149339,fit keurig,Adaptability
+0.0347778,0.8878215,0.077400714,fit directly aging cuisinart coffee maker without insert adapter,Adaptability
+0.010687388,0.25020897,0.7391037,otherwise well made,Durability
+0.27946484,0.6894272,0.03110795,hinges screens show signs wear tear,Durability
+0.011911904,0.29762247,0.69046557,lasted well,Durability
+0.04437765,0.6356898,0.31993258,easy wash rinse,Ease of Reprocessing
+0.0077063385,0.14041543,0.8518783,super easy clean,Ease of Reprocessing
+0.06783613,0.6673613,0.26480252,empty easily rinse clean,Ease of Reprocessing
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.30544332,0.6581893,0.036367446,expect however find small amount sludge bottom cup,Interference
+0.009581532,0.1939978,0.79642063,quality pods good seen,Performance
+0.0027503837,0.020566922,0.97668266,cups work really great,Performance
+0.008940648,0.16720946,0.8238499,cups work well,Performance
+0.0069422494,0.072823934,0.92023385,work great,Performance
+0.005542008,0.16816863,0.82628936,filled create good strong cup coffee,Performance
+0.009706922,0.16128,0.8290131,filter pods bucks great value,Price
+0.013720099,0.13242581,0.8538541,great deal price,Price
+0.30682972,0.5708594,0.12231091,price,Price
+0.13278379,0.6481412,0.21907504,save money,Price
+0.48833954,0.46273732,0.048923057,coffee drips fast,Use Efficiency
+0.00863103,0.09897188,0.8923971,paper really nice thick quality even numbered,Interference
+0.27227488,0.7007675,0.02695759,beware moisture dissolve ink page,Durability
+0.9149178,0.07746798,0.0076141492,cover looked like crap days,Durability
+0.014188781,0.6665234,0.3192878,looking quick review book durability book durable soft notebook,Durability
+0.1377861,0.784556,0.07765789,hard erase microwave,Ease of Reprocessing
+0.023865882,0.2895243,0.68660986,never microwaved notebook surprisingly works,Ease of Reprocessing
+0.24742748,0.6957672,0.056805253,pages erase fully,Ease of Reprocessing
+0.6115864,0.36840528,0.020008424,ink never fully erased left behind shadow made making new notes erased pages quite pain,Ease of Reprocessing
+0.035580307,0.45260915,0.51181054,fast easy,Ease of Use
+0.0062244507,0.09292133,0.90085423,product really easy learn simple use,Ease of Use
+0.013870636,0.3807889,0.6053405,easy use setup,Ease of Use
+0.014588142,0.36864004,0.6167718,packaging simple easy understand,Aesthetics
+0.0037501703,0.061107874,0.935142,scanning app good well,Aesthetics
+0.012527071,0.23986949,0.7476034,serves purpose quite well,Performance
+0.74704456,0.22542536,0.027530132,poor quality,Performance
+0.0016874594,0.06928702,0.92902553,notebook pen work well together,Performance
+0.027773628,0.21236235,0.759864,price great,Price
+0.002930747,0.045917388,0.9511519,feels good write,Aesthetics
+0.00863103,0.09897188,0.8923971,paper really nice thick quality even numbered,Aesthetics
+0.035580307,0.45260915,0.51181054,fast easy,Use Efficiency
+0.027157452,0.786135,0.18670745,able quickly send pages different services,Use Efficiency
+0.1793023,0.67497844,0.1457193,versatile,Adaptability
+0.6349796,0.34984544,0.015175003,zippers two bags broke within week,Durability
+0.072139576,0.29167435,0.63618606,nice durable,Durability
+0.4655877,0.48998272,0.044429608,zipper broke one already,Durability
+0.8916292,0.101343475,0.0070272624,zipper keeps getting stuck one zipper broke already,Durability
+0.6466078,0.33462766,0.01876453,zippers broke every bag uses,Durability
+0.3396412,0.61322486,0.04713388,also dual layer hard get dry washing,Ease of Reprocessing
+0.03438785,0.65907663,0.30653557,find easy wash,Ease of Reprocessing
+0.00317975,0.07271468,0.9241056,like colorful snack bags made fabrics makes cleaning much easier,Ease of Reprocessing
+0.02959431,0.395932,0.57447374,easy use clean,Ease of Reprocessing
+0.017952261,0.17109792,0.81094986,love machine washable,Ease of Reprocessing
+0.15834473,0.6120446,0.22961062,washable,Ease of Reprocessing
+0.02959431,0.395932,0.57447374,easy use clean,Ease of Use
+0.00963601,0.2158698,0.7744941,zipper closure much easier ziploc baggie,Ease of Use
+0.5391379,0.44040278,0.020459365,zipper tends get caught material,Interference
+0.6359576,0.33406362,0.02997875,get stuck zipping really struggled ones well,Interference
+0.8916292,0.101343475,0.0070272624,zipper keeps getting stuck one zipper broke already,Interference
+0.67613375,0.30379227,0.020074049,zippers get easily stuck couple mine,Interference
+0.044150274,0.5700484,0.38580135,size good fit needs,Aesthetics
+0.5174098,0.4129158,0.069674484,food dry,Performance
+0.6359576,0.33406362,0.02997875,get stuck zipping really struggled ones well,Performance
+0.029721847,0.25456747,0.7157107,packs good deal,Price
+0.027543016,0.1428828,0.8295742,cute,Aesthetics
+0.008866592,0.07014144,0.920992,beautiful,Aesthetics
+0.07641116,0.31991255,0.60367626,good durable,Durability
+0.038951863,0.5364572,0.42459095,far seem durable,Durability
+0.04886504,0.5777874,0.37334758,cleaning simple,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.008215331,0.18614224,0.80564237,super easy wash,Ease of Reprocessing
+0.05552024,0.5573478,0.38713193,easy clean dry fast,Ease of Reprocessing
+0.041057363,0.7035877,0.25535497,clean easily washer dryer,Ease of Reprocessing
+0.030095158,0.21120659,0.7586983,wash great,Ease of Reprocessing
+0.30585763,0.56892,0.12522228,soft,Ergonomics
+0.03083424,0.6606789,0.30848685,moderately comfortable,Ergonomics
+0.26616526,0.4612214,0.27261332,super uncomfortable definitely comfortable,Ergonomics
+0.011322232,0.22236381,0.7663139,super comfortable,Ergonomics
+0.06891142,0.61633766,0.31475088,made hot could take,Ergonomics
+0.20781758,0.7156408,0.07654162,noticed strong chemical smell,Interference
+0.116557375,0.81757325,0.06586946,stay place unless laying sitting,Interference
+0.13276125,0.77526355,0.09197522,moves little much wearing material,Interference
+0.68054205,0.27658257,0.04287535,weird smells,Interference
+0.0031675508,0.07284073,0.92399174,stay place pretty well really well,Interference
+0.10027081,0.59930605,0.30042315,absorbent,Performance
+0.10027081,0.59930605,0.30042315,absorbent,Performance
+0.07641116,0.31991255,0.60367626,good durable,Performance
+0.04646591,0.5655043,0.3880298,believe absorbent,Performance
+0.011039276,0.23860139,0.75035936,super comfortable absorbent,Performance
+0.04673084,0.32622275,0.6270464,good quality,Performance
+0.13387793,0.71357703,0.15254506,way absorbent,Performance
+0.007808357,0.11597236,0.8762193,work well perfect heavier days,Performance
+0.9228076,0.07271109,0.004481349,want wish found sooner regular pads tampons cause many problems chafing infections,Safety
+0.005758211,0.099565156,0.8946766,good set love spoon various sizes,Adaptability
+0.81469584,0.16240129,0.022902856,attractive,Aesthetics
+0.035061553,0.23959401,0.7253445,adorable,Aesthetics
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.0071583763,0.16858743,0.8242542,great durable teabag,Durability
+0.031163901,0.51478153,0.45405462,durable sturdy,Durability
+0.060938895,0.57274485,0.3663163,clean easily,Ease of Reprocessing
+0.22985163,0.6499875,0.120160855,difficult clean well,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.072741956,0.6255458,0.30171224,washes easy,Ease of Reprocessing
+0.056966268,0.43197572,0.51105803,simple easy,Ease of Use
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Use
+0.06946985,0.50307465,0.42745554,easy use,Ease of Use
+0.007616658,0.28687376,0.70550954,easy convenient way precious looseleaf tea work without bringing tea canisters,Ease of Use
+0.80873936,0.17579758,0.015462951,makes tea taste like rubber,Interference
+0.15917467,0.68792516,0.15290023,smell taste,Interference
+0.8252922,0.16368046,0.011027338,wish bottoms somehow attached dropped one garbage cleaning leaves decided throw whole thing away rather dig trash,Interference
+0.3742026,0.58840364,0.03739371,smell ca get rid,Interference
+0.062213138,0.7943603,0.14342658,smallest holes fine loose teas get,Interference
+0.056265973,0.7444465,0.19928752,bottoms easy drop since tiny,Interference
+0.1068771,0.8316349,0.061488066,leak bits tea leaves,Performance
+0.18078713,0.73868924,0.08052366,tea fall holes,Performance
+0.8882606,0.101647295,0.01009208,awful diffuse tea enough,Performance
+0.01224734,0.80455524,0.18319738,work well loose teas like ceylon irish varieties small leaves,Performance
+0.0106466785,0.14687952,0.8424738,work wonderfully,Performance
+0.005980028,0.09991185,0.8941081,works pretty well,Performance
+0.036648326,0.38175273,0.58159894,fun,Aesthetics
+0.03190934,0.8841829,0.083907776,tea bags weeks made least dozen cups tea,Use Efficiency
+0.035646915,0.80450076,0.15985236,also aware realize normal ice cubes would fit top,Adaptability
+0.10217061,0.74780154,0.15002789,small one throw briefcase,Adaptability
+0.007223884,0.27237895,0.7203971,clips backpack nicely would probably fine belt,Adaptability
+0.6061092,0.37525985,0.018630967,downside diameter means bottle fits cupholders vw doesnt fit cupholders even door holden,Adaptability
+0.0079784375,0.09599826,0.89602333,bottle beautiful,Aesthetics
+0.010482875,0.5961992,0.39331788,first quite rose gold like copper,Aesthetics
+0.0066777817,0.06734871,0.92597353,good looking bottle,Aesthetics
+0.1691163,0.7378329,0.09305083,attracted design,Aesthetics
+0.00267205,0.016247155,0.98108083,looks great wood finish awesome,Aesthetics
+0.02329916,0.47332907,0.5033718,slim design lots different exterior choose glad got,Aesthetics
+0.006847067,0.1014673,0.8916856,style wise many comments nice shape colours,Aesthetics
+0.008904375,0.6077181,0.38337746,also larger even expensive branded version bottle plus,Use Efficiency
+0.07585011,0.8137498,0.11040008,lastly bottom pad time started come put super glue try save,Durability
+0.024680289,0.69486374,0.28045598,bottle brush fits yo clean ease,Ease of Reprocessing
+0.008215331,0.18614224,0.80564237,super easy wash,Ease of Reprocessing
+0.040495675,0.8000702,0.15943414,clean easily drop dish soap shake,Ease of Reprocessing
+0.033637404,0.8437773,0.12258523,rim fits lip bottle wide even small clean cotton bud deep wipe corner cloth,Ease of Reprocessing
+0.10217061,0.74780154,0.15002789,small one throw briefcase,Ease of Storage
+0.023887958,0.3424435,0.63366854,bit awkward carry shape makes slide hand quite easy,Ergonomics
+0.0037193815,0.25957504,0.7367056,also purchased wide mouth mira bottle order make easy morning coffee,Ergonomics
+0.028042905,0.87458086,0.097376145,also light weight fill water heavy think,Ergonomics
+0.020300834,0.23615965,0.7435395,opening nice size,Ergonomics
+0.73826855,0.2480552,0.0136762615,also keep water inside day gives moldy smell,Interference
+0.023887958,0.3424435,0.63366854,bit awkward carry shape makes slide hand quite easy,Interference
+0.5437257,0.40893435,0.04733991,little clumsy sometimes drop really loud,Interference
+0.4950265,0.4722288,0.032744646,strong metallic smell inside,Interference
+0.41396758,0.5482204,0.037812006,first get water tastes kinda metallic put juice first week taste faded,Interference
+0.15491927,0.6519425,0.19313823,need coaster,Aesthetics
+0.013800209,0.6011766,0.3850232,keeps chilled water chilled entire day,Performance
+0.0056986697,0.1336982,0.86060315,holds temperature incredibly well,Performance
+0.0049764244,0.22610267,0.7689209,several bottle put refrigerated water small ice cubes still nice cool water,Performance
+0.0446201,0.87601525,0.07936474,put tea still lukewarm pm ice stays frozen hours,Performance
+0.031834163,0.90058315,0.06758262,keep contents hot cold amount time indicated,Performance
+0.4513261,0.51326925,0.03540464,however keep things cold,Performance
+0.0069962256,0.18375443,0.80924934,keeps water nice cool,Performance
+0.09920386,0.79900956,0.101786576,bottle arrived would completely close,Performance
+0.027342362,0.35763863,0.61501896,seal great leak bag,Performance
+0.6946463,0.28672883,0.0186248,thing keeps drinks intensely cold,Performance
+0.20368552,0.7293514,0.06696308,water stays ice cold overnight,Performance
+0.73826855,0.2480552,0.0136762615,also keep water inside day gives moldy smell,Safety
+0.0315322,0.35845774,0.61001,like keeping track time shower nice date temperature put product hair need wait number minutes rinsing use timer far complaint clock really like something changes post update later amazon customer novemer shower clock exactly hoped want read instruction manual carefully play around device get grasp works works well clock timer press mode button switch settings easy reset durable dropped repeatedly damage use every day replace battery yet one provided deal water humidity seemingly problem functioning clouding screen also kickstand pop back make stand althou,Adaptability
+0.040426023,0.8774318,0.082142174,fits right shower curtain hook outside tub,Adaptability
+0.016935032,0.61820364,0.36486128,works well clock timer,Adaptability
+0.005142572,0.12783584,0.86702156,nice date temperature,Adaptability
+0.12904066,0.69707865,0.17388065,lasted months second one lasted months,Durability
+0.9266924,0.06897922,0.004328384,unfortunately second time daughter took shower got wet doesnt work,Durability
+0.20084946,0.63192004,0.1672305,water resistant,Durability
+0.6045,0.37688205,0.018617965,durable dropped repeatedly damage,Durability
+0.18213917,0.76490825,0.05295258,thought description would stick bathroom wall needs hook,Ease of Use
+0.057593178,0.6227266,0.31968018,clock easy set,Ease of Use
+0.03581153,0.6795439,0.28464463,easy set came battery intuitive controls,Ease of Use
+0.040426023,0.8774318,0.082142174,fits right shower curtain hook outside tub,Ease of Use
+0.1701536,0.6796698,0.1501766,easy reset,Ease of Use
+0.00795646,0.38478994,0.6072536,really easy set whatever timer need,Ease of Use
+0.28006122,0.626163,0.09377585,easy kids use,Ease of Use
+0.8989143,0.093376964,0.0077087325,young teen would stay shower ran hot water sooooo annoying product minutes mom comes knocking,Interference
+0.0315322,0.35845774,0.61001,like keeping track time shower nice date temperature put product hair need wait number minutes rinsing use timer far complaint clock really like something changes post update later amazon customer novemer shower clock exactly hoped want read instruction manual carefully play around device get grasp works works well clock timer press mode button switch settings easy reset durable dropped repeatedly damage use every day replace battery yet one provided deal water humidity seemingly problem functioning clouding screen also kickstand pop back make stand althou,Performance
+0.026710674,0.7426058,0.2306835,shower getting late work taking long showers different time settings helped develop discipline,Performance
+0.007745589,0.09551464,0.8967398,working great,Performance
+0.11005773,0.7353349,0.15460742,worked got shower time,Performance
+0.016935032,0.61820364,0.36486128,works well clock timer,Performance
+0.5171884,0.45841384,0.024397753,started weird glitch timer reaches zero sound toggles clock mode set time date,Performance
+0.0043068496,0.044085264,0.9516079,seems working great,Performance
+0.032436684,0.53085196,0.43671128,far complaint clock really like,Performance
+0.4168301,0.47933814,0.10383181,tells annoying shower reasonable time mom dad saving money,Price
+0.13901474,0.81617063,0.04481472,thing might matter potential buyer bit delay register correct temperature seen gradually builds every seconds going degrees f take couple minutes get,Use Efficiency
+0.004456389,0.08129928,0.91424435,nice amour light beautiful flickering effect,Aesthetics
+0.04785338,0.33676228,0.61538434,color much better,Aesthetics
+0.42763987,0.5048986,0.06746153,brighten deck flicker obnoxiously,Aesthetics
+0.23246457,0.62119967,0.14633584,use decoration,Aesthetics
+0.01979928,0.4789557,0.5012451,outside summer still like new,Durability
+0.005526763,0.103883885,0.89058936,candles work great even get rained,Durability
+0.21622032,0.68368626,0.100093454,two corridod battery inside,Durability
+0.077602684,0.8506686,0.0717287,need direct sunlight charge,Ease of Reprocessing
+0.0020001559,0.08373172,0.9142682,candles charging working well,Ease of Reprocessing
+0.15744637,0.6889163,0.15363735,flip switch,Ease of Use
+0.096495606,0.8035111,0.09999341,need flick switch bottom ready go,Ease of Use
+0.8015617,0.17491141,0.023526797,work waste,Performance
+0.0020001559,0.08373172,0.9142682,candles charging working well,Performance
+0.8710256,0.118244514,0.010729964,bad product arrived didnt stay even charged sun day one working,Performance
+0.005019721,0.069933996,0.92504627,far working great,Performance
+0.007298605,0.15316877,0.8395326,really work well,Performance
+0.28846058,0.568544,0.14299549,love around worry kids either burning swallowing battery seems big story area especially toys,Safety
+0.03665305,0.37223122,0.5911157,looks slick,Aesthetics
+0.0086774,0.22971213,0.7616105,actually took mount everest handled extreme environment well,Durability
+0.027651032,0.38516712,0.58718187,seems durable,Durability
+0.019267568,0.3241719,0.65656054,well built power bank option save life,Durability
+0.16412644,0.68343914,0.15243442,substantially built,Durability
+0.8685692,0.12625301,0.005177822,product also fell apart trip light use,Durability
+0.8977567,0.0942336,0.008009638,thrilled product disappointed life,Durability
+0.20084946,0.63192004,0.1672305,water resistant,Durability
+0.036308777,0.58248234,0.3812089,reassuring know need lighter cheaper faster thinner would endowed five stars,Ease of Reprocessing
+0.024735732,0.5495286,0.42573565,wish charged sunlight quicker would restore battery full day hiking daylight,Ease of Reprocessing
+0.30506912,0.6143029,0.08062803,extremely heavy,Ergonomics
+0.5097824,0.44500908,0.045208484,kinda clumsy awkward carry fairly heavy,Ergonomics
+0.25406757,0.6930651,0.052867286,much bit heavy thick,Ergonomics
+0.5097824,0.44500908,0.045208484,kinda clumsy awkward carry fairly heavy,Interference
+0.0032920246,0.07048237,0.92622554,charged plus quickly wife moto z time still led blue lights still available difficult choice would highly recommend,Performance
+0.014425875,0.21940342,0.76617074,charges really well,Performance
+0.22805394,0.57911366,0.19283241,work,Performance
+0.011239882,0.1015363,0.88722384,good product,Performance
+0.36822492,0.45160884,0.18016626,great product drain easily,Performance
+0.494493,0.47576344,0.029743593,lose power fast,Performance
+0.0031948583,0.08589744,0.9109077,beast powerful completely charged iphone plus times got done less two hours time,Performance
+0.0036361176,0.06222514,0.9341388,excellent powerbank,Performance
+0.056228183,0.59155077,0.35222107,lighter cheaper faster thinner would endowed five stars,Price
+0.0051433463,0.20773281,0.7871238,charger affordable charges phone relatively quickly,Price
+0.0106484275,0.5864038,0.40294772,charged plus quickly wife moto z time,Use Efficiency
+0.22688045,0.6709099,0.10220975,efficient one used,Use Efficiency
+0.0031948583,0.08589744,0.9109077,beast powerful completely charged iphone plus times got done less two hours time,Use Efficiency
+0.0051433463,0.20773281,0.7871238,charger affordable charges phone relatively quickly,Use Efficiency
+0.058853537,0.7711047,0.17004183,thing charges devices quickly,Use Efficiency
+0.0580941,0.69430643,0.24759944,mobility versatility,Adaptability
+0.0054245084,0.06680587,0.9277696,product beautiful perfectly sized,Aesthetics
+0.093044184,0.4037754,0.5031804,expected battery crap year years casual use beat toddler still works well new,Durability
+0.66104126,0.32664827,0.012310507,water whatsoever gets keyboard fried,Durability
+0.7376766,0.24862261,0.013700722,used keyboard year half keys stopped responding consistently eventually longer reliable,Durability
+0.269478,0.6714594,0.059062608,use thing every single day type hours well year never replaced internal watch battery ever run power even dimly lit office,Durability
+0.034126367,0.30346054,0.6624131,always works,Durability
+0.5464305,0.4242236,0.02934589,reciever also compact unlikley get damaged lugging laptop around,Durability
+0.21925254,0.7421032,0.038644224,keyboard meant heavy use,Durability
+0.2036938,0.6660544,0.13025175,stop recharging months get fixed,Durability
+0.037465937,0.6290595,0.33347458,store cabinet still seems get enough light keep battery charge,Ease of Reprocessing
+0.1611989,0.73565936,0.10314177,never issue solar performance,Ease of Reprocessing
+0.09299887,0.81627226,0.09072892,solar cells work little light,Ease of Reprocessing
+0.2702589,0.5945565,0.13518453,zero problems charging holding charge,Ease of Reprocessing
+0.2036938,0.6660544,0.13025175,stop recharging months get fixed,Ease of Reprocessing
+0.22573188,0.7160727,0.05819546,throw thing briefcase go,Ease of Storage
+0.004053911,0.15367635,0.8422697,fits nicely laptop bag,Ease of Storage
+0.022389548,0.4337651,0.5438453,even bought one mother figured user friendly,Ease of Use
+0.02705126,0.5880837,0.38486502,super slim easy type,Ease of Use
+0.12849382,0.7843154,0.087190814,responsive practical keyboard ever used,Ease of Use
+0.07641189,0.7933652,0.13022299,normally prefer keyboard little key depth,Ergonomics
+0.00262227,0.027589945,0.9697878,feels pretty good fingertips typing,Ergonomics
+0.02705126,0.5880837,0.38486502,super slim easy type,Ergonomics
+0.06534814,0.8575201,0.07713178,never issue solar performance keys keystroke,Ergonomics
+0.021474896,0.39751476,0.5810104,comfortable,Ergonomics
+0.011206609,0.31938443,0.669409,keyboard thin light laptop type keys said key press satisfying even typing playing fps games sort sleek yet solid feedback,Ergonomics
+0.5280377,0.44284475,0.029117493,suddenly stop reason keyboard waits enough energy complete task,Interference
+0.0135696465,0.4114108,0.5750196,easily accessible switch clean without random keystrokes sent computer,Interference
+0.08917395,0.5141296,0.39669654,well designed,Aesthetics
+0.034126367,0.30346054,0.6624131,always works,Performance
+0.008523299,0.06154427,0.9299324,used nearly six months performance absolutely wonderful never issue solar performance keys keystroke,Performance
+0.1876193,0.5762783,0.23610239,productive,Performance
+0.011206609,0.31938443,0.669409,keyboard thin light laptop type keys said key press satisfying even typing playing fps games sort sleek yet solid feedback,Performance
+0.5280377,0.44284475,0.029117493,suddenly stop reason keyboard waits enough energy complete task,Use Efficiency
+0.12849382,0.7843154,0.087190814,responsive practical keyboard ever used,Use Efficiency
+0.18604328,0.7348578,0.079099,fit car window advertised,Adaptability
+0.02100745,0.2476778,0.7313148,fit good,Adaptability
+0.0073419707,0.104063876,0.88859415,new rain cover also great worry rain getting car love,Adaptability
+0.06765806,0.8835414,0.048800513,solar panel sits outside window tilts adjust,Adaptability
+0.008990186,0.8470605,0.14394924,button activated sun angle sunshine plate driving go,Adaptability
+0.0978006,0.7976363,0.104563124,also wide gap installed,Aesthetics
+0.67275214,0.2627531,0.064494826,ugly,Aesthetics
+0.0056971507,0.26134744,0.73295534,easy cut vinyl spacers sturdy adjusted perfectly,Durability
+0.03634648,0.75954795,0.20410556,installation easy diagram came ventilator,Ease of Use
+0.047803313,0.59817976,0.35401696,fast easy install remove,Ease of Use
+0.13525373,0.7426333,0.12211295,hassle put take,Ease of Use
+0.031940147,0.46020192,0.5078579,easy use install,Ease of Use
+0.30000782,0.621211,0.07878125,kinda loud,Interference
+0.5262991,0.44235453,0.03134634,noise level high especially highways,Interference
+0.008878576,0.25711447,0.73400694,love makes quiet calming fan noise working,Interference
+0.62355584,0.33718663,0.039257567,plus noisy,Interference
+0.55590796,0.41156393,0.032528155,water leak,Interference
+0.25435686,0.7029036,0.0427395,automatic windows come sense obstruction challenge getting window rolled way koolcar,Interference
+0.9479224,0.046059385,0.006018234,utterly useless,Performance
+0.007309075,0.19211422,0.8005767,high quality fans work well,Performance
+0.016224558,0.2158785,0.7678969,job cools care,Performance
+0.009154416,0.0883821,0.90246344,works great,Performance
+0.0032601268,0.029651383,0.9670885,works really good,Performance
+0.06024258,0.79830694,0.1414504,noticeably cooled car supposed,Performance
+0.006883597,0.09131604,0.90180033,kulcar fabulous product worked exactly advertised,Performance
+0.063192494,0.5065583,0.43024924,friends new car solar panels roof thing mine costs lot less,Price
+0.43274018,0.49855337,0.068706445,way bulky,Aesthetics
+0.11328825,0.8279183,0.058793414,also sensitive light hitting panel,Durability
+0.0059176283,0.30469686,0.68938553,fit perfectly cup holder pockets backpack forth,Adaptability
+0.007327113,0.12003454,0.87263834,pro microwave great,Adaptability
+0.018937342,0.8038598,0.17720293,put microwave microwave safe reheat coffee,Adaptability
+0.0029389232,0.042318325,0.95474267,great modern aesthetic proud seen,Aesthetics
+0.43750888,0.5269629,0.035528246,causes lid crack,Durability
+0.5534991,0.430885,0.0156159485,repeatedly warmed previous cup contents microwave causing rubber grip band loosen fail,Durability
+0.18179259,0.63777953,0.18042785,crack side,Durability
+0.16352625,0.6789377,0.1575361,mug part sturdy,Durability
+0.22027048,0.5611728,0.21855673,durable,Durability
+0.026305353,0.40423015,0.5694645,seem well made engineered,Durability
+0.012207559,0.3240014,0.66379106,dishwasher safe means easy cleaning,Ease of Reprocessing
+0.1181058,0.65435064,0.22754362,dishwasher safe,Ease of Reprocessing
+0.1181058,0.65435064,0.22754362,dishwasher safe,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.12431218,0.59772104,0.27796677,easy wash,Ease of Reprocessing
+0.07314631,0.49572822,0.43112555,easy clean,Ease of Reprocessing
+0.04561754,0.63618743,0.31819504,simple reusable,Ease of Use
+0.007329655,0.59348756,0.39918286,straightforward mug easy use,Ease of Use
+0.114592075,0.7213341,0.16407384,although lid challenge install properly,Ease of Use
+0.056888536,0.512837,0.4302745,lids easy,Ease of Use
+0.6282293,0.3545597,0.01721093,adequately insulates hand hot contents,Ergonomics
+0.015456513,0.47678593,0.50775754,comfortable hold,Ergonomics
+0.3677122,0.60192156,0.03036619,also way seal drinking hole car hit bump stop suddenly prepared get hot liquid spilled cup holder,Interference
+0.5885531,0.39014646,0.021300433,little crevices weird shaped areas stuff gets stuck builds,Interference
+0.9520313,0.044532053,0.0034365994,using paper cup cup coffee work like godless colleagues want kill planet,Aesthetics
+0.080189124,0.84273314,0.07707762,lid secure time thread,Performance
+0.2544263,0.5848928,0.1606809,leak,Performance
+0.037947685,0.73469615,0.22735615,insulation hot cold efficient,Performance
+0.0068257484,0.17752285,0.8156514,insulating properties good,Performance
+0.04020232,0.74281436,0.21698333,keep drink hot cold ever like,Performance
+0.008880252,0.46087968,0.53024006,keeps coffee tea warm long need,Performance
+0.55060977,0.42981657,0.019573646,lastly leak issues,Performance
+0.08510794,0.70965487,0.20523724,lids seal properly,Performance
+0.15631771,0.6317823,0.21189995,lid screws nicely never leaks smooth lips,Performance
+0.017695228,0.3655463,0.61675847,keeps hot quite,Performance
+0.12460268,0.7054949,0.16990243,top longer stays,Performance
+0.6061714,0.3668282,0.027000368,unfortunately one lids fit,Performance
+0.6792156,0.2883608,0.03242358,cheap enough husband loses one wo cry,Price
+0.24228577,0.63433015,0.12338408,economical price,Price
+0.3677122,0.60192156,0.03036619,also way seal drinking hole car hit bump stop suddenly prepared get hot liquid spilled cup holder,Safety
